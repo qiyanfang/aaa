@@ -9,7 +9,7 @@ typedef struct people
 
 int main()
 {
-
+    double x,y;
 	people p[4];
 	int i=0,u=0,c=0;//对数组遍历用的变量
 	int j=1,k=1,m=1,n=1;//排名从1开始,排名遍历用的变量
